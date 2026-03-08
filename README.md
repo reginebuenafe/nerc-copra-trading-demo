@@ -2,10 +2,6 @@
 
 # NERC Copra Trading Demo
 
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
-![Status](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
-
 A practice demo website built around a copra trading business concept set in Kumalarang, Zamboanga del Sur, Philippines. The site showcases **NERC Copra Trading** as a trusted buying station where farmers and suppliers can learn about copra, explore fair pricing, and reach out to inquire about current rates.
 
 </div>
